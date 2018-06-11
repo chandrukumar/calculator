@@ -5,6 +5,7 @@ public class Calculation {
 		String c=a+b;
 		return c;
 
+return c;
 	}
 	
 
